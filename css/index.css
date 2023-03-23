@@ -1032,3 +1032,9 @@ strong {
   align-items: center;
   flex-wrap: wrap;
 }
+
+.team-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
